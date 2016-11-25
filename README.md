@@ -1,3 +1,3 @@
 # reactComment
 comment-react
-test from www.reactjs.cn
+test from http://www.reactjs.cn/react/docs/tutorial.html
